@@ -12,6 +12,6 @@ js-mail-dadi
 - Per la convalida dell'e-mail ho inserito un array con delle e-mail già "convalidate"
 - Ho inserito una variabile già settata su false, che servirà per il ciclo "while"
 - Apertura del ciclo while con inserimento del prompt e di una condizionale che controlla se l'email inserita sia tra quelle convalidate
-- Se l'email è tra quelle convalidate allora il gioco dei dadi sarà eseguito
-- Se l'email non è tra quelle convalidate sarà richiesto a ciclo un email valida o il gioco non sarà eseguito e apparirà un messaggio appriopriato
+- Se l'email è tra quelle convalidate allora apparirà il messaggio "Email valida"
+- Se l'email non è tra quelle convalidate uscirà il messaggio "Email non valida"
 
